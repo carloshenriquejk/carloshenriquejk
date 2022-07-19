@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Delphi, JavaScript, HTML, CSS, SQL**
 
-- ⚡ Fun fact **Oneye 😜**
+- ⚡ Fun fact **On eye 😜**
 
 <!--
 
