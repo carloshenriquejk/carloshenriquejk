@@ -5,7 +5,7 @@
 - 🔥 Junior Web Developer & Delphi
 
 
-- 💬 Ask me about **Delphi, JavaScript, HTML, CSS, SQL**
+- 💬 Ask me about **Delphi, java spring boot, Angular, bootstrap, jquery and SQL**
 
 - ⚡ Fun fact **On eye 😜**
 
