@@ -2,10 +2,10 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Carlos</h1>
 
 
-- 🔥 Junior Web Developer & Delphi
+- 🔥 Junior Web Developer 
 
 
-- 💬 Ask me about **Delphi, java spring boot, Angular, bootstrap, jquery and SQL**
+- 💬 Ask me about ** PHP, Angular, bootstrap, jquery and Delphi**
 
 - ⚡ Fun fact **On eye 😜**
 
