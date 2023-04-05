@@ -5,7 +5,7 @@
 - 🔥 Junior Developer 
 
 
-- 💬 Ask me about ** PHP, React, Mode, bootstrap, jquery and Delphi**
+- 💬 Ask me about ** PHP, React, Node, bootstrap, jquery and Delphi**
 
 - ⚡ Fun fact **On eye 😜**
 
