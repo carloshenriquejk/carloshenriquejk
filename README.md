@@ -9,7 +9,7 @@
  ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;About me
  - 🔥 Full Stack Developer 
  
-- 👨‍🎓 I'm graduated in **Bachelor of Information Systems**
+- 👨‍🎓 I'm graduating in **Bachelor of Information Systems**
 
 - 💬 Ask me about ReactJS and Node
 
