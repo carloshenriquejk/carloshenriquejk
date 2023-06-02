@@ -18,56 +18,13 @@
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
-
-<div align="left">
- <p>
-    <a href='https://html.com/'>
-      <img src="https://skillicons.dev/icons?i=html"/>
-    </a>
-    <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
-      <img src="https://skillicons.dev/icons?i=css"/>
-    </a>
-    <a href='https://www.javascript.com/'>
-      <img src="https://skillicons.dev/icons?i=js"/>
-    </a>
-    <a href='https://www.typescriptlang.org/'>
-      <img src="https://skillicons.dev/icons?i=ts"/>
-    </a>
-    <a href='https://reactjs.org/'>
-      <img src="https://skillicons.dev/icons?i=react"/>
-    </a>
-    <a href='https://nextjs.org/'>
-      <img src="https://skillicons.dev/icons?i=nextjs"/>
-    </a>
-    <a href='https://nodejs.org/en/'>
-      <img src="https://skillicons.dev/icons?i=nodejs"/>
-    </a>
-    <a href='https://git-scm.com/'>
-     <img src="https://skillicons.dev/icons?i=git"/>
-    </a>
-    <a href='https://styled-components.com/'>
-      <img src="https://skillicons.dev/icons?i=styledcomponents"/>
-    </a>
-    <a href='https://tailwindui.com/'>
-     <img src="https://skillicons.dev/icons?i=tailwind"/>
-    </a>
-    <a href='https://sass-lang.com/'>
-     <img src="https://skillicons.dev/icons?i=sass"/>
-    </a>
-    <a href='https://www.figma.com/'>
-     <img src="https://skillicons.dev/icons?i=figma"/>
-    </a>
- </p>
-
-</div>
   
 <br>
 
 ## 👨🏻‍💼 &nbsp;Connect with Me
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/carlohenriquejk" target="_blank"   width="140px" >
+<a href="https://codepen.io/carlohenriquejk" target="_blank"   width="90px" >
   <img  width="140px" align="center" src="https://img.shields.io/badge/-carlohenriquejk-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 <a href="https://www.linkedin.com/in/carloshenriquejk/" target="_black">
