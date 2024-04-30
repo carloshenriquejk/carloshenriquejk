@@ -7,13 +7,11 @@
 <br>
 
  ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;About me
- - 🔥 Full Stack Developer 
- 
-- 👨‍🎓 I'm graduating in **Bachelor of Information Systems**
-
-- 💬 Ask me about ReactJS and Node
-
-- ⚡ Fun fact **On eye 😜**
+(C# | .Net | Delphi | AWS | React.JS | Next.js | Javascript | HTML | CSS ) 🚀
+- 👩‍💻 Software Enginner @[cdtsoftware](https://www1.cdtsoftware.com.br/)
+- 🎓 **Information Systems** Student @ [Unopar](https://www.anhanguera.com/)
+- 🌐 Passionate about web development
+- 💡 Love a good challenge
 
   
 <br>
