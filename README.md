@@ -7,7 +7,7 @@
 <br>
 
  ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;About me
-C# | .Net | Delphi | AWS | React.JS | Next.js | Javascript | HTML | CSS 
+C# | .Net | Delphi | PHP | React.JS | Next.js | Javascript | HTML | CSS 
 - 👩‍💻 Software Enginner @[Receiv](https://www.receiv.it/)
 - 🎓 **Information Systems** Student @ [Anhanguera](https://www.anhanguera.com/)
 - 🌐 Passionate about web development
